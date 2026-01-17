@@ -1,0 +1,5 @@
+; This compiles and links the OMNIPROM assembler program.
+; NOTE: YOU MUST USE 'M80', since Z80ASM will not allow for proper
+;       linking (the disk read command will not work).
+m80 = omni
+l80 omni,syslib/S,omni/n/e

@@ -1,0 +1,4 @@
+; Compile, assemble and link the Omniprom software with Aztec-C
+cz omni
+as omni
+ln omni.o c.lib
