@@ -8,6 +8,8 @@ The following setup shows the programmer attached to RCL's Pied-Piper computer "
 <img src="/Images/Img2.jpg" alt="" style="width:75%; height:auto;">
 </div>
 
+And the 5 personality modules:
+
 <div style="text-align:center">
 <img src="/Images/Img3.jpg" alt="" style="width:75%; height:auto;">
 </div>
